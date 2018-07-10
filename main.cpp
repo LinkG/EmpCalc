@@ -85,7 +85,7 @@ int main(int argc, char **argv)
 	
 	char elements[num_elements][3];
 	float masses[num_elements];
-	float percentages[num_elements] = {69.9, 30.1};
+	float percentages[num_elements];
 	float molar_mass;
 	float values[num_elements];
 	int emperical_nos[num_elements];
